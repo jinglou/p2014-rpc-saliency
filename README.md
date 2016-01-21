@@ -1,4 +1,4 @@
-Webpage
+Project page
 -----------
 http://www.loujing.com/rpc-saliency/
 
