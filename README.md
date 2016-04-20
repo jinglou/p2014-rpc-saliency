@@ -1,6 +1,6 @@
 Project page
 -----------
-http://www.loujing.com/rpc-saliency/
+http://www.loujing.com/rpc-saliency
 
 Paper
 ------------
