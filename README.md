@@ -7,7 +7,7 @@ Paper
 Lou J, Ren M, Wang H (2014) Regional Principal Color Based Saliency Detection. *PLoS ONE* 9(11): e112475. [doi:10.1371/journal.pone.0112475](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0112475 "doi:10.1371/journal.pone.0112475")
 
 <pre>
-@article{PlosOne2014/JingLou,
+@article{PONE2014/JingLou,
     author    = {Lou, Jing AND
                  Ren, Mingwu AND
                  Wang, Huan},
@@ -18,7 +18,7 @@ Lou J, Ren M, Wang H (2014) Regional Principal Color Based Saliency Detection. *
     month     = {11},
     volume    = {9},
     number    = {11},
-    pages     = {e112475},
+    pages     = {e112475.1--13},
     issn      = {1932--6203},
     doi       = {10.1371/journal.pone.0112475},
     url       = {http://www.loujing.com/rpc-saliency/},
