@@ -19,5 +19,4 @@ Paper
     year      = {2014},
     url       = {http://www.loujing.com/rpc-saliency}
 }
-}
 </pre>
