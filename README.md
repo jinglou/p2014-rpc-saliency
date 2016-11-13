@@ -1,3 +1,5 @@
+<div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/p2014-rpc-saliency/master/figs/fig1.png" alt="Regional Principal Color Based Saliency Detection" title="Regional Principal Color Based Saliency Detection" width="93%"/></div>
+
 ## Paper
 
 **Jing Lou**, Mingwu Ren, Huan Wang, "Regional Principal Color Based Saliency Detection," ***PLoS ONE***, vol. 9, no. 11, pp. e112475: 1-13, 2014. [doi:10.1371/journal.pone.0112475](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0112475)
