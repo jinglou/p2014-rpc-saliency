@@ -7,4 +7,4 @@
 
 Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
 
-Copyright (C) 2014 [Jing Lou](http://www.loujing.com)
+Copyright (C) 2016 [Jing Lou](http://www.loujing.com)
