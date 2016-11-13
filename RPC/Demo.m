@@ -19,6 +19,16 @@ params.alpha = 0.95;	% [Subsection 'Parameter Selection', pp.8]
 params.delta = 0.25;
 params.sigma = 0.2;
 
+%% make folders
+if exist('GloSalMaps','dir') ~= 7
+	system('md GloSalMaps');
+end
+
+if exist('RegSalMaps','dir') ~= 7
+	system('md RegSalMaps');
+end
+
+%% RPC
 rgbfiles = dir('images\*.jpg');
 for nums = 1:length(rgbfiles)
 	tic;
