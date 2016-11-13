@@ -13,7 +13,7 @@
 
 clc; clear; close all;
 
-% Parameter settings
+%% Parameter settings
 params.qnums = 256;		% [Subsection 'Color Quantization', pp.8]
 params.alpha = 0.95;	% [Subsection 'Parameter Selection', pp.8]
 params.delta = 0.25;

@@ -134,7 +134,7 @@ for m = 1:Height*Width
 end
 
 %% Graph-based segmentation [Subsection 'Regional Principal Color Saliency', pp.4]
-graphsig = 0.5;	% Used to smooth the input image before segmenting it
+graphsig = 0.5;		% Used to smooth the input image before segmenting it
 k = 50;				% Value for the threshold function
 minsize = 50;		% Minimum component size enforced by post-processing
 imwrite(RGB_Quan, 's.ppm');
