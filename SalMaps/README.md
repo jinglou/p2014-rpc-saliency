@@ -6,4 +6,4 @@ The saliency maps of the RPC algorithm proposed in the following paper:
 
 Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
 
-Copyright (C) 2016 [Jing Lou](http://www.loujing.com)
+Copyright (C) 2016 [Jing Lou (楼竞)](http://www.loujing.com)
