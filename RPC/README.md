@@ -20,4 +20,4 @@ Date: Jul 31, 2016
 
  2. This algorithm reads the input images from the folder `images`, and generates two resulting folders:
 	 1. `GloSalMaps`  global saliency maps
-	 2. `RegSalMaps`  regional saliency maps (our final retults)
+	 2. `RegSalMaps`  regional saliency maps (final retults)
