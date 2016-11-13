@@ -6,7 +6,7 @@ Jing Lou, Mingwu Ren, Huan Wang, "Regional Principal Color Based Saliency Detect
  
 Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
  
-Copyright (C) 2016 [Jing Lou (楼竞)](http://www.loujing.com/)
+Copyright (C) 2016 [Jing Lou](http://www.loujing.com/)
  
 Date: Jul 31, 2016
 
