@@ -1,4 +1,4 @@
-## Saliency maps of RPC
+## Saliency Maps of RPC
 
 The saliency maps of the RPC algorithm proposed in the following paper:
 
