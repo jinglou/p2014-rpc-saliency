@@ -7,6 +7,6 @@
 
 Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
 
-These resources are also available at [Baidu Cloud (百度网盘)](http://pan.baidu.com/s/1kUByzrx#list/path=%2Fresearch%2Fp2014-rpc-saliency).
+These resources are also available at my [Baidu Cloud (百度网盘)](http://pan.baidu.com/s/1kUByzrx#list/path=%2Fresearch%2Fp2014-rpc-saliency).
 
 Copyright (C) 2016 [Jing Lou](http://www.loujing.com)
