@@ -3,7 +3,7 @@
 
 ## Paper
 
- - **Jing Lou**, Mingwu Ren, Huan Wang, &ldquo;Regional Principal Color Based Saliency Detection,&rdquo; ***PLoS ONE***, vol. 9, no. 11, pp. e112475: 1&ndash;13, 2014. [doi:10.1371/journal.pone.0112475](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112475)
+ - **Jing Lou**, Mingwu Ren, Huan Wang, "Regional Principal Color Based Saliency Detection," ***PLoS ONE***, vol. 9, no. 11, pp. e112475: 1-13, 2014. [doi:10.1371/journal.pone.0112475](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112475)
 
  - Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
 
