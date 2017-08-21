@@ -7,7 +7,7 @@ This code implements the RPC saliency detection algorithm in the following paper
  - Project page: [http://www.loujing.com/rpc-saliency/](http://www.loujing.com/rpc-saliency/)
  - You can directly download the zipped file of the MATLAB code: [RPC.zip](https://raw.githubusercontent.com/jinglou/p2014-rpc-saliency/master/RPC.zip).
 
-Copyright (C) 2016 [Jing Lou](http://www.loujing.com/)
+Copyright (C) 2016 [Jing Lou (楼竞)](http://www.loujing.com/)
 
 Date: Jul 31, 2016
 
