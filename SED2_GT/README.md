@@ -9,7 +9,7 @@ If you use this code or data, please cite our paper:
 
  - This code and data are also available at my [Baidu Cloud (百度网盘)](https://pan.baidu.com/s/1kUByzrx#list/path=%2Fresearch%2Fp2014-rpc-saliency%2FSED2_GT).
 
-Copyright (C) [Jing Lou](http://www.loujing.com)
+Copyright (C) [Jing Lou (楼竞)](http://www.loujing.com)
 
 ### Folders
 
