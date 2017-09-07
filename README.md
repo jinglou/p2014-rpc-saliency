@@ -1,4 +1,4 @@
-<div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/p2014-rpc-saliency/master/figs/fig1.png" alt="Regional Principal Color Based Saliency Detection" title="Regional Principal Color Based Saliency Detection" width="99%"/></div>
+<div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/p2014-rpc-saliency/master/figs/fig1.png" alt="Regional Principal Color Based Saliency Detection" title="Regional Principal Color Based Saliency Detection" width="100%"/></div>
 <div align="justify"><strong>Figure 1. Saliency maps vs. ground truth.</strong> Given several original images [20] (<strong>top</strong>), our saliency detection method is used to generate saliency maps by measuring regional principal color contrasts (<strong>middle</strong>), which are comparable to manually labeled ground truth [11] (<strong>bottom</strong>).</div>
 
 ## Paper
