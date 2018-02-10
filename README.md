@@ -2,7 +2,6 @@
 <div align="justify"><strong>Figure 1. Saliency maps vs. ground truth.</strong> Given several original images [20] (<strong>top</strong>), our saliency detection method is used to generate saliency maps by measuring regional principal color contrasts (<strong>middle</strong>), which are comparable to manually labeled ground truth [11] (<strong>bottom</strong>).</div>
 
 <br/>
-<br/>
 
 ## Paper
 
